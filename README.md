@@ -25,5 +25,5 @@ Lisans hakları hala TDK ve "esgici.net"e ait.
 
 Bazı dosyaların açıklamaları:
 
-Türkçe Kelimeler LONG w TUR wo REP.txt 89 bin Trükçe kelime içeriyor.
-Türkçe Kelimeler UTF-8 LONG w TUR wo REP.txt UTF-8 protokolünde geçerli olmayan harfleri içermeyen kelimelerin listesidir. (ö,ç,ş,ğ,ü,ı,..) gibi bazı karakterler yok.) Hızlıca bir çözüm ararsanız bunu kullanabilirsiniz.
+Türkçe Kelimeler LONG w TUR wo REP.txt 89 bin Türkçe kelime içeriyor.
+Türkçe Kelimeler UTF-8 LONG w TUR wo REP.txt UTF-8 protokolünde geçerli olmayan harfleri içermeyen kelimelerin listesidir. (ö,ç,ş,ğ,ü,ı,.. gibi bazı karakterler yok.) Hızlıca bir çözüm ararsanız bunu kullanabilirsiniz.
